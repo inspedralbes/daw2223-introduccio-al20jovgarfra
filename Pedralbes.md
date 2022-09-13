@@ -7,6 +7,7 @@ Els professors son:
 4. Ernesto
 5. Segundo 
 6. Maribel
+7. Mateo
 
 ## Asignatures
 - M06
