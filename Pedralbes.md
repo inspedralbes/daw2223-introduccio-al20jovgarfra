@@ -6,6 +6,7 @@ Els professors son:
 3. [Ermengol](https://www.institutpedralbes.cat/)
 4. Ernesto
 5. Segundo 
+6. Maribel
 
 ## Asignatures
 - M06
